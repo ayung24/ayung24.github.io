@@ -1,2 +1,1 @@
-Personal website
-https://ayung24.github.io/
+Personal website: https://ayung24.github.io/
