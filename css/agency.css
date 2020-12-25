@@ -28,7 +28,7 @@ a.active {
   outline: none;
 }
 a {
-  color: black;
+  color: black !important;
 }
 a:hover,
 a:focus,
