@@ -28,8 +28,17 @@ a.active {
   outline: none;
 }
 a {
-  color: black !important;
+  color: black;
 }
+.link {
+  color: black;
+}
+
+.link.active {
+  color: #fec503;
+
+}
+
 a:hover,
 a:focus,
 a:active,
