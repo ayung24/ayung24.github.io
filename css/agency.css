@@ -34,7 +34,7 @@ a {
   color: black;
 }
 
-.link.active {
+.link:active {
   color: #fec503;
 
 }
