@@ -3001,6 +3001,7 @@ select[multiple].input-lg {
   }
 }
 .btn {
+  color: black;
   display: inline-block;
   padding: 6px 12px;
   margin-bottom: 0;
@@ -3033,7 +3034,7 @@ select[multiple].input-lg {
 .btn:hover,
 .btn:focus,
 .btn.focus {
-  color: #333;
+  color: #a0a0a0;
   text-decoration: none;
 }
 .btn:active,
